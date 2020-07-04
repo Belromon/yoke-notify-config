@@ -17,4 +17,4 @@ server:
   port: 8085
   
 encrypt:
-  key: _LT_54MX2e<T)ovEZRa7J##VlEMG}Y
+  keyStore: _LT_54MX2e<T)ovEZRa7J##VlEMG}Y
