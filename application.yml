@@ -12,8 +12,9 @@ spring:
       username: root
       password: '{cipher}2d623e134f2e759eb2590530fdd958eac1de468fa94c4b18cbf23a2e34809a20'
       database: yoke
-encrypt:
-  key: _LT_54MX2e<T)ovEZRa7J##VlEMG}Y
 
 server:
   port: 8085
+  
+encrypt:
+  key: _LT_54MX2e<T)ovEZRa7J##VlEMG}Y
