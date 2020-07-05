@@ -10,7 +10,7 @@ spring:
       port: 27017
       authentication-database: admin
       username: root
-      password: example
+      password: '{cipher}783b329dd969751a375354abdc349c452f294cbdd01f6b9f16e1e2ddea72117c'
       database: yoke
 
 server:
